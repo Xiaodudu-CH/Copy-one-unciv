@@ -36,9 +36,10 @@
     "uniques": [
          "Great General provides double combat bonus",
          "[+2] Movement <for [Ranged] units>",
-         "[+1] range <for [Ranged] units>",
+         "[+1] Range <for [Ranged] units>",
          "[+2] Sight <for [{Military} {Land}] units>",
          "[+1 Production] from every [Strategic resource]",
+         "[1] additional attacks per turn",
          "[+100]% XP gained from combat"
     ],
 
